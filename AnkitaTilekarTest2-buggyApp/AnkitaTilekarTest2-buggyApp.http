@@ -1,0 +1,6 @@
+@AnkitaTilekarTest2_buggyApp_HostAddress = http://localhost:5042
+
+GET {{AnkitaTilekarTest2_buggyApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
